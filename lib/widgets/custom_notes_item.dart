@@ -11,7 +11,7 @@ class CustomNotesItem extends StatelessWidget {
         borderRadius: BorderRadius.circular(16),
       ),
       child: Padding(
-        padding: const EdgeInsets.only(top: 16, bottom: 24),
+        padding: const EdgeInsets.only(top: 30, bottom: 30),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.end,
           children: [
